@@ -193,7 +193,7 @@ def ordenar_paises(lista_paises):
         print(f"{ROJO}Opción inválida.{RESET}")
         return
 
-    # Ordenamiento burbuja académico
+    # Ordenamiento burbuja
     lista_ordenada = list(lista_paises)
     n = len(lista_ordenada)
     for i in range(n):

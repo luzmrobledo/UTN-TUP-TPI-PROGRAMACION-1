@@ -140,6 +140,6 @@ Robledo, Luz: ordenar_paises() (método burbuja), menu(), bloque __main__, repos
 
 ## Enlaces
 
-- **Video explicativo:** (https://drive.google.com/drive/folders/1vO4UGnmGJe-LczFUAZdI95Ix7Oa5eExR?usp=sharing)
+- **Video explicativo:** (https://drive.google.com/file/d/1GaN6gK7F9ksRu1e9Qh1PbsA0ul8Itfvf/view?usp=drive_link)
 - **Informe técnico:** `Informe_TPI_Paises.pdf`
 # UTN-TUP-TPI-PROGRAMACION-1
